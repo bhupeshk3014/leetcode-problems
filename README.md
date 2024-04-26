@@ -13,6 +13,7 @@ LeetCode
 |  #  | Title | Solution | Difficulty |
 | --- | ----- | -------- | ---------- |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Java](./Code/Java/0219-contains-duplicate-2.java) | Easy |
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | [Java](./Code/Java/0645-set-mismatch.java) | Easy |
 
 ### Other Learnings
 
