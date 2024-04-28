@@ -15,6 +15,7 @@ LeetCode
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Java](./Code/Java/0219-contains-duplicate-2.java) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | [Java](./Code/Java/0645-set-mismatch.java) | Easy |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](./Code/Java/0771-jewels-and-stones.java) | Easy |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Java](./Code/Java/0448-find-all-numbers-disappeared-in%20an-array.java) | Easy |
 
 ### Other Learnings
 
