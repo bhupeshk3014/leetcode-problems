@@ -16,6 +16,7 @@ LeetCode
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | [Java](./Code/Java/0645-set-mismatch.java) | Easy |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [Java](./Code/Java/0771-jewels-and-stones.java) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Java](./Code/Java/0448-find-all-numbers-disappeared-in%20an-array.java) | Easy |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Java](./Code/Java/0035-search-insert-position.java) | Easy |
 
 ### Other Learnings
 
