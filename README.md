@@ -7,6 +7,7 @@ LeetCode
 |  #  | Title | Solution | Notes | Difficulty |
 | --- | ----- | -------- | ----- | ---------- |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Java](./Code/Java/0217-contains-duplicate.java) | [Notes](https://dev.to/_bhupeshk_/217-contains-duplicate-og5) | Easy |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Java](./Code/Java/0242-valid-anagram.java) | [Notes](https://dev.to/_bhupeshk_/242-valid-anagram-4abc) | Easy |
 
 ### LeetCode Problems without Notes
 
