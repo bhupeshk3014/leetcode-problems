@@ -23,6 +23,8 @@ Welcome to my collection of LeetCode problems and solutions! Here you'll find my
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Java](./Code/Java/0448-find-all-numbers-disappeared-in%20an-array.java) | Easy        |
 |  35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)     | [Java](./Code/Java/0035-search-insert-position.java) | Easy        |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)         | [Java](./Code/Java/1768-merge-strings-alternately.java) | Easy       |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) | [Java](./Code/Java/1071-greatest-common-divisor-of-strings.java) | Easy       |
+
 
 ---
 
