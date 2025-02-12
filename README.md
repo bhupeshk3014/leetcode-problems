@@ -25,6 +25,7 @@ Welcome to my collection of LeetCode problems and solutions! Here you'll find my
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)         | [Java](./Code/Java/1768-merge-strings-alternately.java) | Easy       |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) | [Java](./Code/Java/1071-greatest-common-divisor-of-strings.java) | Easy       |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/) | [Java](./Code/Java/1431-kids-with-the-greatest-number-of-candies.java) | Easy       |
+| 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)               | [Java](./Code/Java/0605-can-place-flowers.java)    | Easy       |
 
 ---
 
