@@ -28,6 +28,7 @@ Welcome to my collection of LeetCode problems and solutions! Here you'll find my
 | 605  | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)               | [Java](./Code/Java/0605-can-place-flowers.java)    | Easy       |
 | 345  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java](./Code/Java/0345-reverse-vowels-of-a-string.java) | Easy       |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Java](./Code/Java/0151-reverse-words-in-a-string.java) | Medium       |
+| 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Java](./Code/Java/0238-product-of-array-except-self.java) | Medium       |
 
 ---
 
